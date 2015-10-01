@@ -9,7 +9,7 @@
         "lodash": "2.4.1",
         "kramed": "0.4.4",
         "kramed-text-renderer": "0.2.1",
-        "lunr": "codepiano/lunr.js",
+        "lunr": "NSOiO/lunr.js",
         "swig": "1.3.2",
         "send": "0.2.0",
         "fstream-ignore": "0.0.7",
